@@ -1,5 +1,5 @@
 # TankGame_java
-This is a Tank Game Project.
+This is a Tank Game Project. 
 WASD to move 
 J to shoot 
 
